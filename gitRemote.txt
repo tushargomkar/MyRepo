@@ -1,0 +1,20 @@
+echo "# seo-auditYoutube" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/tushargomkar/seo-auditYoutube.git
+git push -u origin master
+
+
+
+step to follows
+
+1. Github account 
+2. Empty Repo.
+3. local system
+   git config --global user.name "tushargomkar"
+   git config --global user.email "tuhargomkar@gmail.com"
+4. git push -u origin master
+    4.1 username? -> tushargomkar
+    4.3 password?- ->token for the account 
